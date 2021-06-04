@@ -1,0 +1,9 @@
+#container {
+    display: grid;
+    grid-template-columns: repeat(1fr);
+    grid-template-rows: repeat(1fr);
+    background-color: red;
+    grid-gap: 1em;
+    grid-area: auto;
+}
+
